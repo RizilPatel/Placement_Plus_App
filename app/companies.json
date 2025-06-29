@@ -1,0 +1,74 @@
+{
+    "companies": [
+      {
+        "name": "Apple",
+        "photo": "apple.png",
+        "poc": "Mohd Wajid",
+        "eligibleBranches": ["CSE", "ECE", "EEE"],
+        "eligibilityCriteria": "8 CGPA+",
+        "stipendCTC": "1.25 lakh/60 LPA+",
+        "noOfRounds": "1 OA/2 Interview/1 HR",
+        "assessmentInterviewDates": "25th March/4th April"
+      },
+      {
+        "name": "Google",
+        "photo": "google.png",
+        "poc": "Rizil Patel",
+        "eligibleBranches": ["CSE", "IT"],
+        "eligibilityCriteria": "7.5 CGPA+",
+        "stipendCTC": "1.5 lakh/70 LPA+",
+        "noOfRounds": "1 OA/3 Interview/1 HR",
+        "assessmentInterviewDates": "30th March/5th April"
+      },
+      {
+        "name": "Microsoft",
+        "photo": "microsoft.png",
+        "poc": "Kalp Patel",
+        "eligibleBranches": ["CSE", "ECE"],
+        "eligibilityCriteria": "8.5 CGPA+",
+        "stipendCTC": "1.75 lakh/80 LPA+",
+        "noOfRounds": "1 OA/2 Interview/1 HR",
+        "assessmentInterviewDates": "1st April/10th April"
+      },
+      {
+        "name": "Amazon",
+        "photo": "amazon.png",
+        "poc": "Riapreet Kaur",
+        "eligibleBranches": ["CSE", "IT", "EEE"],
+        "eligibilityCriteria": "8 CGPA+",
+        "stipendCTC": "1.6 lakh/75 LPA+",
+        "noOfRounds": "1 OA/2 Interview/1 HR",
+        "assessmentInterviewDates": "5th April/15th April"
+      },
+      {
+        "name": "Meta",
+        "photo": "meta.png",
+        "poc": "Arnav Tyagi",
+        "eligibleBranches": ["CSE"],
+        "eligibilityCriteria": "9 CGPA+",
+        "stipendCTC": "2 lakh/90 LPA+",
+        "noOfRounds": "1 OA/3 Interview/1 HR",
+        "assessmentInterviewDates": "10th April/20th April"
+      },
+      {
+        "name": "Netflix",
+        "photo": "netflix.png",
+        "poc": "Archit Aneja",
+        "eligibleBranches": ["CSE", "IT"],
+        "eligibilityCriteria": "8.2 CGPA+",
+        "stipendCTC": "1.8 lakh/85 LPA+",
+        "noOfRounds": "1 OA/2 Interview/1 HR",
+        "assessmentInterviewDates": "15th April/25th April"
+      },
+      {
+        "name": "Nvidia",
+        "photo": "nvidia.png",
+        "poc": "Sanjana Singh",
+        "eligibleBranches": ["CSE", "ECE", "ME"],
+        "eligibilityCriteria": "8.7 CGPA+",
+        "stipendCTC": "1.9 lakh/95 LPA+",
+        "noOfRounds": "1 OA/2 Interview/1 HR",
+        "assessmentInterviewDates": "20th April/30th April"
+      }
+    ]
+  }
